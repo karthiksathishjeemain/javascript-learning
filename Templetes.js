@@ -1,4 +1,5 @@
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
-    console.log (i);
+let bte = [1, 7,45,67,60];
+for (let i = 0; i < bte.length; i++) {
+    const element = bte[i];
+    console.log (bte[i]);
 }
